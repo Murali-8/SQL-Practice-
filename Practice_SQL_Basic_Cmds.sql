@@ -218,86 +218,11 @@ where p.SPID not in
 (select distinct s.spid from sales s 
  where s.SaleDate between '2022-01-01' and '2022-01-07');
 
-#3. How many times we shipped more than 1,000 boxes in each month?
-
-
-
-
-
-
+#3. How many times we shipped more than 1,000 boxes in each month
 
 
 #4. Did we ship at least one box of ‘After Nines’ to ‘New Zealand’ on all the months?
 #5. India or Australia? Who buys more chocolate boxes on a monthly basis?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
